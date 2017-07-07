@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="" label="base" language="en" table="x_120106_test_base">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>base</label>
+            <language>en</language>
+            <name>x_120106_test_base</name>
+            <plural>bases</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-07 14:34:45</sys_created_on>
+            <sys_customer_update>true</sys_customer_update>
+            <sys_id>0d76663d4f3332002efe3b728110c707</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>base</sys_name>
+            <sys_package display_value="Test" source="x_120106_test">bae52a354f3332002efe3b728110c773</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="Test">bae52a354f3332002efe3b728110c773</sys_scope>
+            <sys_update_name>sys_documentation_x_120106_test_base__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-07 14:34:45</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

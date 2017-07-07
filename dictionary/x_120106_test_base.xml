@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="base" max_length="40" name="x_120106_test_base" type="collection">
+        <element choice="3" default="Bhopal" label="Datacenter" mandatory="true" max_length="4000" name="datacentername" type="glide_list">
+            <choice>
+                <element label="Bangalore" value="Bangalore"/>
+                <element label="Bhopal" value="Bhopal"/>
+                <element label="NewYork" value="NewYork"/>
+            </choice>
+        </element>
+        <element default="1" label="CPU" mandatory="true" max_length="16" name="numcpu" type="integer"/>
+        <element label="No. of Instance" max_length="10" name="nummachine" type="integer"/>
+        <element default="1" label="Memory (GB)" mandatory="true" max_length="16" name="nummemory" type="integer"/>
+        <element default="40" display="true" label="Storage (GB)" mandatory="true" max_length="500" name="tolstorage" type="integer"/>
+    </element>
+</database>
